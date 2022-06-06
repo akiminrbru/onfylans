@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb://localhost:27017/my-password-storage",
+  "secretKey": "cloud-disk-mern",
+  "staticPath": "C:\\Users\\Миша\\Documents\\Programming\\js\\mern-cloud-disk\\server\\static"
+}
